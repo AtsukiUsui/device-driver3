@@ -58,7 +58,7 @@ $sudo rmmod myled.ko
 # Author
 
 * 作成者:AtsukiUsui
-* E-mail:programmakeadrb@cocoro.uk
+* E-mail:s20C1019fv@s.chibakoudai.jp
 
 
 # License
